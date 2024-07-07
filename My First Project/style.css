@@ -1,0 +1,91 @@
+.all_nav
+{
+       background-color: white;
+      color: black;
+      padding: 10px;
+      font-size: bold;
+}
+.serch
+{
+  position: absolute;
+  right: 30px;
+}
+.serch1
+{
+  position: absolute;
+  right: 70px;
+  top: 25px;
+  font-size: bold;
+  color: green;
+}
+#nav{
+  height: 50px;
+  width: 50px;
+  /*margin-top: 100px;*/
+  /*margin-left: 10px;*/
+  border-radius: 50%;
+  background-color: black;
+
+  box-shadow: 0px 0px 10px silver;
+
+}
+ .carousel-inner img {
+    width: 100%;
+    height: 550px;
+  }
+  #para1{
+  
+  	margin-top: 80px;
+    text-align: justify;
+  
+  }
+  .about{
+  margin-top: 70px;
+  	text-shadow: 0px 0px 10px black;
+  	text-align:justify;
+    color: white;
+  }
+ /* .car_img:hover{
+  	transform:scale(1.2);
+  }*/
+  #icon
+  {
+    font-size: 50px;
+    color: white;
+    text-align: right;
+  }
+ .contect_canenor
+ {
+  margin-top: 60px;
+  
+ }
+ .my_list li {
+  list-style-type: none;
+  margin-top: 10px;
+
+ }
+ .my_list li a{
+ 
+  color: orange;
+
+ }
+ .icon_foter{
+  font-size: 30px;
+  color: white;
+ 
+  text-align: center;
+ }
+ #contect_name{
+  font-size: 40px;
+ }
+ .myteam_card{
+  height: 500px;
+  
+ }
+ .card{
+  box-shadow: 0px 0px 20px red;
+
+ }
+ .nb{
+  margin-bottom: 50px;
+ }
